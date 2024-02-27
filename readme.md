@@ -1,4 +1,4 @@
-# Cocktails Express
+# Cocktails Express version programmation fonctionnelle
 
   <img style="width: 100px;" src="./SRC/images/github/git1.png" alt="">  <img style="width: 100px;" src="./SRC/images/github/git2.png" alt="">  <img style="width: 100px;" src="./SRC/images/github/git3.png" alt="">  <img style="width: 100px;" src="./SRC/images/github/git3.png" alt="">
 
