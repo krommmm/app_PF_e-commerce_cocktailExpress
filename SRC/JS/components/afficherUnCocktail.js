@@ -37,7 +37,10 @@ const afficherUnCocktail = (array) => {
 </article>
 </div>
 `;
-};
 
 return focus;
+
+};
+
+
 export default afficherUnCocktail;
