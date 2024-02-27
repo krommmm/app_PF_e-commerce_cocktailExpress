@@ -66,6 +66,6 @@ const afficherPanier = (array) => {
 `;
 	});
 
-	return panier;
+	return panier;sdfsdf
 };
 export default afficherPanier;
